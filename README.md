@@ -55,6 +55,12 @@ A 3D visualization of our solar system using OpenGL, featuring realistic orbital
    ```bash
    # Ubuntu/Debian
    sudo apt-get install build-essential libgl1-mesa-dev libglu1-mesa-dev libglfw3-dev libglew-dev
+   # Build
+   g++ -o solar_system main.cpp -lGL -lGLU -lglfw -lGLEW -std=c++17
+   # Run
+   ./solar_system
+
+
 
 
 
