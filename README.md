@@ -1,5 +1,5 @@
-# AUTHOR  BT21CSE059 TARUN GUPTA 
-# ASSIGNMENT - I
+# AUTHOR : BT21CSE059 TARUN GUPTA 
+# Android Assignment Set 1
 
 
 ## Questions Overview
